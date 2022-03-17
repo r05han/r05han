@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @r05han
+- 👋 Hi, I’m @r05han a.k.a. Roshan.
 - 👀 I’m interested in automation for SAP deployment, operations and lifecycle services in public and private cloud.
 - 🌱 I’m currently learning Ansible & Python.
 - 📫 Reach me @roshan_r on Twitter.
